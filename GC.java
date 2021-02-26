@@ -2,8 +2,12 @@
 
 public abstract class   GC {
 <<<<<<< HEAD
+<<<<<<< HEAD
     private Interger gcNo;
     private String gcName;
+=======
+    private String   gcName;
+>>>>>>> dev
     
     public Interger getNo(){
         return this.gcNo;
