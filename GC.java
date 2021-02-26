@@ -1,6 +1,7 @@
 
 
-public abstract class   Groups {
-    private Interger groupno;
+public abstract class   GC {
+    private Interger gcno;
+    private Interger gcname;
 
 }
