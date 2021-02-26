@@ -1,6 +1,7 @@
 
 
 public abstract class   GC {
+<<<<<<< HEAD
     private Interger gcNo;
     private String gcName;
     
@@ -15,5 +16,11 @@ public abstract class   GC {
     public void setNo(Interger gcNo){
         this.gcNo = gcNo;
     }
+=======
+    public void setName(String Name){
+        this.gcName = gcName
+    }
+    
+>>>>>>> dev
 
 }
